@@ -1,0 +1,10 @@
+C:\Users\HOANG TAM\source\repos\Project\BookTicket\bin\Debug\BookTicket.exe.config
+C:\Users\HOANG TAM\source\repos\Project\BookTicket\bin\Debug\BookTicket.exe
+C:\Users\HOANG TAM\source\repos\Project\BookTicket\bin\Debug\BookTicket.pdb
+C:\Users\HOANG TAM\source\repos\Project\BookTicket\obj\Debug\BookTicket.csprojAssemblyReference.cache
+C:\Users\HOANG TAM\source\repos\Project\BookTicket\obj\Debug\BookTicket.Form1.resources
+C:\Users\HOANG TAM\source\repos\Project\BookTicket\obj\Debug\BookTicket.Properties.Resources.resources
+C:\Users\HOANG TAM\source\repos\Project\BookTicket\obj\Debug\BookTicket.csproj.GenerateResource.cache
+C:\Users\HOANG TAM\source\repos\Project\BookTicket\obj\Debug\BookTicket.csproj.CoreCompileInputs.cache
+C:\Users\HOANG TAM\source\repos\Project\BookTicket\obj\Debug\BookTicket.exe
+C:\Users\HOANG TAM\source\repos\Project\BookTicket\obj\Debug\BookTicket.pdb

@@ -1,0 +1,10 @@
+E:\PRN292\Project\Admin\bin\Debug\Admin.exe.config
+E:\PRN292\Project\Admin\bin\Debug\Admin.exe
+E:\PRN292\Project\Admin\bin\Debug\Admin.pdb
+E:\PRN292\Project\Admin\obj\Debug\Admin.csprojAssemblyReference.cache
+E:\PRN292\Project\Admin\obj\Debug\Admin.Form1.resources
+E:\PRN292\Project\Admin\obj\Debug\Admin.Properties.Resources.resources
+E:\PRN292\Project\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+E:\PRN292\Project\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+E:\PRN292\Project\Admin\obj\Debug\Admin.exe
+E:\PRN292\Project\Admin\obj\Debug\Admin.pdb
